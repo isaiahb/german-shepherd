@@ -1,0 +1,54 @@
+.bg-one {
+	background: url("../img/grass-bg.jpg");
+	background-size: cover;
+	padding: 0px;
+	width: 100%;
+	margin: 0px;
+}
+.bg-two {
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.7);
+	padding-top: 70px;
+	padding-bottom: 96px;
+	margin: 0px;
+}
+
+.bg-three {
+	opacity: 1;
+}
+
+.carousel img {
+	height: 400px;
+	background-size: cover;
+}
+
+.carousel {
+	padding: 20px;
+}
+
+.puppies img {
+	height: 150px;
+}
+
+.dogs img {
+	/* height: 200px; */
+	/* overflow: hidden; */
+	width: 100%;
+}
+
+.dogs h4 {
+	padding-bottom: 0px;
+	padding-top: 25px;
+	padding-left: 0px;
+	color: #2c3e50!important;
+}
+
+.caution h4 {
+	padding-left: 0px;
+	padding-bottom: 0px;
+}
+
+#only-true-title {
+	padding:30px;
+}
